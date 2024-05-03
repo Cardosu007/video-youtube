@@ -49,7 +49,7 @@ public class Visualizacao {
         this.filme = filme;
     }
 
-    
+
 
     @Override
     public String toString() {
